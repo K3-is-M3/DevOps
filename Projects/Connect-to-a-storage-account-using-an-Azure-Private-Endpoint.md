@@ -27,8 +27,7 @@ Here we will:
 - Create a resource group
 - Create a virtual network
 ### Walkthrough
-<video src="assets/step1.mp4" controls width="650" height="450"></video>
-
+<video src="https://github.com" controls width="650" height="450"></video>
 
 <hr>
 
@@ -37,7 +36,7 @@ Here we will:
 - Create a NAT gateway for our virtual network created in step one. This will enable the VMs in our network to access the internet without exposing our IP address, which would be the case if we just assigned a public IP address.
 - ### I missed a crucial step here, which is assigning an outbound IP to our gateway, without which we cannot access the internet from our VM. But not to worry! I have covered it in step 5, but you can make the correction in this step too. That's good as well.
 ### Walkthrough
-<video src="assets/step2.mp4" controls width="650" height="450"></video>
+<video src="https://github.com" controls width="650" height="450"></video>
 
 <hr>
 
@@ -45,7 +44,7 @@ Here we will:
 Here we will:
 - Create a Virtual Machine (Windows)
 ### Walkthrough
-<video src="assets/step3.mp4" controls width="650" height="450"></video>
+<video src="https://github.com" controls width="650" height="450"></video>
 
 <hr>
 
@@ -59,7 +58,7 @@ From your storage account, you will also need to obtain a storage access key fro
 Finally, we will:
 - Add a blob container to your storage account
 ### Walkthrough
-<video src="assets/step4.mp4" controls width="650" height="450"></video>
+<video src="https://github.com" controls width="650" height="450"></video>
 
 <hr>
 
@@ -74,7 +73,7 @@ Finally, we will:
 
 - **And you have successfully connected to a storage account using an Azure Private Endpoint**
 ### Walkthrough
-<video src="assets/step5.mp4" controls width="650" height="450"></video>
+<video src="https://github.com" controls width="650" height="450"></video>
 
 <hr>
 
@@ -82,4 +81,4 @@ Finally, we will:
 - Clean up. Time to clear all our resources to prevent our credits from being drained.
 - **ALWAYS** make sure you have deleted all the resources you provisioned. Double check if need be.
 ### Walkthrough
-<video src="assets/step6.mp4" controls width="650" height="450"></video>
+<video src="https://github.com" controls width="650" height="450"></video>

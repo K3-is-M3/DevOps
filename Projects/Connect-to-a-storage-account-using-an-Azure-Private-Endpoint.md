@@ -27,7 +27,7 @@ Here we will:
 - Create a resource group
 - Create a virtual network
 ### Walkthrough
-<video src="https://github.com" controls width="650" height="450"></video>
+<video src="https://youtu.be/z7YDLZ68ZRc?si=fsEHK7uyfcwPez0v" controls width="650" height="450"></video>
 
 <hr>
 
@@ -36,7 +36,7 @@ Here we will:
 - Create a NAT gateway for our virtual network created in step one. This will enable the VMs in our network to access the internet without exposing our IP address, which would be the case if we just assigned a public IP address.
 - ### I missed a crucial step here, which is assigning an outbound IP to our gateway, without which we cannot access the internet from our VM. But not to worry! I have covered it in step 5, but you can make the correction in this step too. That's good as well.
 ### Walkthrough
-<video src="https://github.com" controls width="650" height="450"></video>
+<video src="https://youtu.be/2HrytHgXKwM?si=gC5ilhULWmqKYpkT" controls width="650" height="450"></video>
 
 <hr>
 
@@ -44,7 +44,7 @@ Here we will:
 Here we will:
 - Create a Virtual Machine (Windows)
 ### Walkthrough
-<video src="https://github.com" controls width="650" height="450"></video>
+<video src="https://youtu.be/1gP2RZIKBLo?si=WNytxD2L6iqR8xMI" controls width="650" height="450"></video>
 
 <hr>
 
@@ -58,7 +58,7 @@ From your storage account, you will also need to obtain a storage access key fro
 Finally, we will:
 - Add a blob container to your storage account
 ### Walkthrough
-<video src="https://github.com" controls width="650" height="450"></video>
+<video src="https://youtu.be/YBVwkTBx8Ik?si=_XLsBJxBQQvXIego" controls width="650" height="450"></video>
 
 <hr>
 
@@ -73,7 +73,7 @@ Finally, we will:
 
 - **And you have successfully connected to a storage account using an Azure Private Endpoint**
 ### Walkthrough
-<video src="https://github.com" controls width="650" height="450"></video>
+<video src="https://youtu.be/ZKAz7vfHaMs?si=g_YEtyNjsP4aEUXZ" controls width="650" height="450"></video>
 
 <hr>
 
@@ -81,4 +81,4 @@ Finally, we will:
 - Clean up. Time to clear all our resources to prevent our credits from being drained.
 - **ALWAYS** make sure you have deleted all the resources you provisioned. Double check if need be.
 ### Walkthrough
-<video src="https://github.com" controls width="650" height="450"></video>
+<video src="https://youtu.be/wujk-VDj5kE?si=QgJ5tvhJkIMpwHO9" controls width="650" height="450"></video>

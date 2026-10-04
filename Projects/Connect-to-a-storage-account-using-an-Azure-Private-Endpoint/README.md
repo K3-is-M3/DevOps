@@ -21,7 +21,7 @@ Deployment Tips:
 - **Also, the settings I use here are only for testing purposes. For production environments, requirements might be different**
 
 ## High-Level Architecture diagram
-<img width="1472" height="506" alt="azure-storage-2-private-endpoint drawio" src="https://github.com/user-attachments/assets/e03e6a1d-4296-4740-af32-f0fe46f4d8e8" /># Connect to a storage account using an Azure Private Endpoint
+<img width="1471" height="506" alt="azure-storage-2-private-endpoint drawio" src="https://github.com/user-attachments/assets/fb9d07e2-27e9-46ee-a279-350b7909d8f2" />
 
 ### Step 1
 Here we will:

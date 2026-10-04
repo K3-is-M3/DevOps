@@ -1,5 +1,3 @@
-# Connect to a storage account using an Azure Private Endpoint
-
 ## Purpose & Scope
 This article provides a tutorial for creating a private endpoint in Azure to enable secure communication between Azure resources, such as virtual machines and Azure Storage, without public access.
 
@@ -21,6 +19,9 @@ Deployment Tips:
 - Free Account Limits: If you are using the $200 Azure free credit, Microsoft enforces strict regional quota limits.
 - The Fix: If you run into quota errors, workaround the restriction by spreading your resources (e.g., virtual networks) across multiple different regions.
 - **Also, the settings I use here are only for testing purposes. For production environments, requirements might be different**
+
+## High-Level Architecture diagram
+<img width="1472" height="506" alt="azure-storage-2-private-endpoint drawio" src="https://github.com/user-attachments/assets/e03e6a1d-4296-4740-af32-f0fe46f4d8e8" /># Connect to a storage account using an Azure Private Endpoint
 
 ### Step 1
 Here we will:
